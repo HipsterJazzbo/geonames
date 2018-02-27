@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateGeonamesAlternateNamesTable extends Migration {
+class CreateGeonamesAlternateNames extends Migration {
 
 	/**
 	 * Run the migrations.

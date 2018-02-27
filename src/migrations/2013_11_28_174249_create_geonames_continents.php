@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateGeonamesContinentsTable extends Migration {
+class CreateGeonamesContinents extends Migration {
 
 	/**
 	 * Run the migrations.
